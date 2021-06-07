@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bikang Pan
+- 👀 I’m interested in optimization, artificial intelligence
+- 🌱 I’m currently learning in Shanghaitech!
+- 📫 Email: panbk@shanghaitech.edu.cn
+- phone: +86 18702195230
