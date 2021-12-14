@@ -2,4 +2,4 @@
 - 👀 I’m interested in optimization, artificial intelligence
 - 🌱 I’m currently learning in Shanghaitech!
 - 📫 Email: panbk@shanghaitech.edu.cn
-- phone: +86 18702195230
+- phone: +86 19821125238
